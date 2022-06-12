@@ -14,7 +14,7 @@ deploy:
   provider: elasticbeanstalk
   region: "us-east-1"
   app: "movies-app"
-  env: "Movies-app-env"
+  env: "Moviesapp-env"
   bucket_name: "elasticbeanstalk-us-east-1-583762202529"
   bucket_path: "movies-app"
   on:
